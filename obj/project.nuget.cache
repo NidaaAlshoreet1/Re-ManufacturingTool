@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "+judVrJ76wY=",
+  "success": true,
+  "projectFilePath": "D:\\Source\\Repos\\ManufacturingTool\\ManufacturingTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NidaaAliEssaAlshoree\\.nuget\\packages\\geometry3sharp\\1.0.324\\geometry3sharp.1.0.324.nupkg.sha512",
+    "C:\\Users\\NidaaAliEssaAlshoree\\.nuget\\packages\\opentk\\4.9.4\\opentk.4.9.4.nupkg.sha512",
+    "C:\\Users\\NidaaAliEssaAlshoree\\.nuget\\packages\\opentk.audio.openal\\4.9.4\\opentk.audio.openal.4.9.4.nupkg.sha512",
+    "C:\\Users\\NidaaAliEssaAlshoree\\.nuget\\packages\\opentk.compute\\4.9.4\\opentk.compute.4.9.4.nupkg.sha512",
+    "C:\\Users\\NidaaAliEssaAlshoree\\.nuget\\packages\\opentk.core\\4.9.4\\opentk.core.4.9.4.nupkg.sha512",
+    "C:\\Users\\NidaaAliEssaAlshoree\\.nuget\\packages\\opentk.graphics\\4.9.4\\opentk.graphics.4.9.4.nupkg.sha512",
+    "C:\\Users\\NidaaAliEssaAlshoree\\.nuget\\packages\\opentk.input\\4.9.4\\opentk.input.4.9.4.nupkg.sha512",
+    "C:\\Users\\NidaaAliEssaAlshoree\\.nuget\\packages\\opentk.mathematics\\4.9.4\\opentk.mathematics.4.9.4.nupkg.sha512",
+    "C:\\Users\\NidaaAliEssaAlshoree\\.nuget\\packages\\opentk.redist.glfw\\3.4.0.44\\opentk.redist.glfw.3.4.0.44.nupkg.sha512",
+    "C:\\Users\\NidaaAliEssaAlshoree\\.nuget\\packages\\opentk.windowing.common\\4.9.4\\opentk.windowing.common.4.9.4.nupkg.sha512",
+    "C:\\Users\\NidaaAliEssaAlshoree\\.nuget\\packages\\opentk.windowing.desktop\\4.9.4\\opentk.windowing.desktop.4.9.4.nupkg.sha512",
+    "C:\\Users\\NidaaAliEssaAlshoree\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.9.4\\opentk.windowing.graphicslibraryframework.4.9.4.nupkg.sha512",
+    "C:\\Users\\NidaaAliEssaAlshoree\\.nuget\\packages\\opentk.winforms\\4.0.0-pre.6\\opentk.winforms.4.0.0-pre.6.nupkg.sha512",
+    "C:\\Users\\NidaaAliEssaAlshoree\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
