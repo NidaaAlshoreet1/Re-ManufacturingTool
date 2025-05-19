@@ -486,11 +486,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\Repos\\ManufacturingTool\\ManufacturingTool.csproj",
+      "projectUniqueName": "D:\\Source\\Repos\\Re-ManufacturingTool\\ManufacturingTool\\ManufacturingTool.csproj",
       "projectName": "ManufacturingTool",
-      "projectPath": "D:\\Source\\Repos\\ManufacturingTool\\ManufacturingTool.csproj",
+      "projectPath": "D:\\Source\\Repos\\Re-ManufacturingTool\\ManufacturingTool\\ManufacturingTool.csproj",
       "packagesPath": "C:\\Users\\NidaaAliEssaAlshoree\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\Repos\\ManufacturingTool\\obj\\",
+      "outputPath": "D:\\Source\\Repos\\Re-ManufacturingTool\\ManufacturingTool\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -562,7 +562,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
